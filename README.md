@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Adhithya K.<br>📚👀 I’m interested in Technology.<br>🌱 I’m currently learning B.Sc Computer Science at The American College, AI at Foursteps Solutions Madurai.<br>📫 How to reach me Email To : adhithyak2005@gmail.com.<br>⚡ Fun fact: Tech Enthusiast | Computer Science Student.</p>
+<p align="left">👋 Hi, I’m Adhithya K.<br>📚👀 I’m interested in Technology.<br>🌱 I’m currently learning AI at Foursteps Solutions Madurai.<br>📫 How to reach me Email To : adhithyak2005@gmail.com.<br>⚡ Fun fact: Tech Enthusiast | Computer Science Student.</p>
 
 ###
 
