@@ -100,7 +100,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=ad-kd&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ad-kd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
