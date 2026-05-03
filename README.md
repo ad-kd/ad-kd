@@ -101,7 +101,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-kd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ad-kd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
