@@ -1,110 +1,74 @@
 <div align="center">
 
-# Hey there, I'm Adhithya K 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Adhithya%20K&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Fullstack%20Developer%20·%20AI%20Enthusiast&descAlignY=85&descSize=16&animation=fadeIn" width="100%"/>
 
-### Fullstack Developer · AI Enthusiast · Problem Solver
+</div>
 
-[![Email](https://img.shields.io/badge/Gmail-12218adhithyaksnm%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:12218adhithyaksnm@gmail.com)
-[![Python](https://img.shields.io/badge/Ask%20me%20about-Python%20%26%20Django-3776AB?style=flat-square&logo=python&logoColor=white)](mailto:12218adhithyaksnm@gmail.com)
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--adkd.vercel.app-6c63ff?style=for-the-badge&logoColor=white)](https://portfolio-adkd.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12218adhithyaksnm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ad-kd)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **AI** at **Fourstep Solutions**
-- 💬 Ask me about **Python** and **Django**
-- 📫 Reach me at **[12218adhithyaksnm@gmail.com](mailto:12218adhithyaksnm@gmail.com)**
+- 🚀 Fullstack developer passionate about building clean, scalable web apps
+- 🤖 Currently deep-diving into **AI** at **Fourstep Solutions**
+- 🛠️ Love crafting backends with **Python & Django** and frontends with **React**
+- 📬 Reach me at **[12218adhithyaksnm@gmail.com](mailto:12218adhithyaksnm@gmail.com)**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-      </a>
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django"/>
-      </a>
-      <br><b>Django</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/>
-      </a>
-      <br><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-      </a>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5"/>
-      </a>
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3"/>
-      </a>
-      <br><b>CSS3</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind"/>
-      </a>
-      <br><b>Tailwind</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
-      </a>
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
-      </a>
-      <br><b>MongoDB</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
-      </a>
-      <br><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-      </a>
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-    </td>
-  </tr>
-</table>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ad-kd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ad-kd&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*Let's build something amazing together 🚀*
+
 </div>
